@@ -1,11 +1,11 @@
 /*
- * Program to implement a scientific calculator
- * ********************************************
+ * Program to implement a scientific calculator - COMP 206
+ * ***********************************************************
  * Author	Dept.		Date		Notes
  * Jerry Xia	Soft. Eng.	Nov 2 2020	Included comment section.
  * Jerry Xia	Soft. Eng.	Nov 5 2020	Initial draft.
  * Jerry Xia	Soft. Eng.	Nov 6 2020	Final draft.
- * ********************************************
+ * ***********************************************************
  */
 
 #include<stdio.h>
